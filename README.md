@@ -1,7 +1,7 @@
 - 👋 Hi, I’m C-Dhayananthan
 - :point_right: I'm M.Sc Physics student
-- 👀 I’m interested in DataScience,MachineLearning
-- 🌱 I’m currently learning Machine learning
+- 👀 I’m interested in DataScience,MachineLearning,AI
+- 🌱 I’m currently learning Deep learning
 - :fist: I'm an aspiring DataScientist 
 
 <!---
